@@ -1,0 +1,24 @@
+{
+  "name": "gsuite-group-manager",
+  "version": "0.0.1",
+  "description": "A wrapper for the G suite Admin SDK Groups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duizendstra/gsuite-group-manager.git"
+  },
+  "keywords": [
+    "Google",
+    "API",
+    "Groups"
+  ],
+  "author": "Jasper Duizendstra <jasper@duizendstra.com> (www.duizendstra.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duizendstra/gsuite-group-manager/issues"
+  },
+  "homepage": "https://github.com/duizendstra/gsuite-group-manager#readme"
+}
